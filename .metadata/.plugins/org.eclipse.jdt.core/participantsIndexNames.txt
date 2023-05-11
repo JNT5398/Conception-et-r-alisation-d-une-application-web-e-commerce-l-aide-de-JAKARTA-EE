@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/jnt5398/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2385987243.index
+/SimulateurCredit/src/main/java
+/home/jnt5398/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1781127110.index
+/pfe/src/main/java

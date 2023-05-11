@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Conception et réalisation d’une application web e-commerce à l’aide de&#10;JAKARTA EE">
+        <wb-resource deploy-path="/" source-path="/public"/>
+        <property name="context-root" value="Conception_et_réalisation_d’une_application_web_e-commerce_à_l’aide_de&#10;JAKARTA_EE"/>
+    </wb-module>
+</project-modules>
